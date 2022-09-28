@@ -1,0 +1,17 @@
+
+canvas { background: rgb(104, 104, 104); 
+  display: block; 
+  margin: 0 auto; }
+
+canvas{
+  margin-right: 22px;
+  float: right;
+  size: 70%;
+}
+
+.Listas{
+
+    margin-bottom: 202px;
+  float: left;
+  size: 20%;
+}
